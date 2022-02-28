@@ -1,6 +1,10 @@
 # About me :alien:
+- Who am I ? I’m Morgan and I’m Belgian :belgium:, from Brussels. I’m a programming geek and proud dad, with a lot of imagination, an appetite for knowledge, information sharing and I enjoy too many passions to keep up with everything.
+- What do I do ? I'm a software engineer by education and practice but I work as DevOps/Cloud Infrastructure Engineer, and I miss the fun of working with modern programming languages, so that's something I want to fix at work or via hobby projects.
+
+## Links
 - [Bookmarks](https://github.com/MorganGeek/bookmarks/blob/master/README.md) :bookmark: : where my favorite links stack up
-- [Blog](https://blog.morgangeek.be/) : where I write :brain:
+- [Blog](https://blog.morgangeek.be/) : where I write :brain: , when I write... Hopefully I should be more active in 2022.
 - [Favorite RSS feeds](https://subworthy.com/@morgangeek) : where I read from
 
 ## Social links
