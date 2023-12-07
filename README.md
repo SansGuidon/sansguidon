@@ -10,5 +10,6 @@
 - ~~[LinkedIn profile](https://www.linkedin.com/in/morganwattiez/) : where I get spammed by recruiters [not reading my profile](https://morgangeek.be/blog/what-bugs-me-with-tech-recruiters/)~~ : I paused LinkedIn
 - Mastodon : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek) : where I rarely write
 - Diaspora : morgangeek@diaspora-fr.org : where I never go
+- Instagram : [Replaced with Pixelfed](https://pixelfed.zoemp.be/MorganGeekArt)
 - [Last.fm](https://www.last.fm/fr/user/MorganGeek)
 - ~~Twitter, Facebook, Instagram~~ : I left them
