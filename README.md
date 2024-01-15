@@ -9,7 +9,6 @@
 ## Social links
 - ~~[LinkedIn profile](https://www.linkedin.com/in/morganwattiez/) : where I get spammed by recruiters [not reading my profile](https://morgangeek.be/blog/what-bugs-me-with-tech-recruiters/)~~ : I paused LinkedIn
 - Mastodon : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek) : alternative to Twitter/Facebook
-- Diaspora : [morgangeek@diaspora-fr.org](https://diaspora-fr.org/u/morgangeek) : social network I rarely use
-- Pixelfed : [MorganGeekArt](https://pixelfed.zoemp.be/MorganGeekArt) - alternative to Instagram
+- [Shaarli](https://shaarli.zoemp.be) : resources, favorite bookmarks
 - [Last.fm](https://www.last.fm/fr/user/MorganGeek)
 - ~~Twitter, Facebook, Instagram~~ : I left them
