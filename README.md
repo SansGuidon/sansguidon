@@ -7,8 +7,6 @@
 - [Blog](https://morgan.zoemp.be/) : where I write :brain: , when I write... Hopefully I should be more active in ~~2022~~ ~~2023~~ 2024 🤣
 
 ## Social links
-- ~~[LinkedIn profile](https://www.linkedin.com/in/morganwattiez/) : where I get spammed by recruiters [not reading my profile](https://morgangeek.be/blog/what-bugs-me-with-tech-recruiters/)~~ : I paused LinkedIn
 - Mastodon : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek) : alternative to Twitter/Facebook
 - [Shaarli](https://shaarli.zoemp.be) : resources, favorite bookmarks
 - [Last.fm](https://www.last.fm/fr/user/MorganGeek)
-- ~~Twitter, Facebook, Instagram~~ : I left them
