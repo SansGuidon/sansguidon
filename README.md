@@ -7,6 +7,5 @@
 - [Blog](https://morgan.zoemp.be/) : where I write :brain: , when I write... Hopefully I should be more active in ~~2022~~ ~~2023~~ 2024 🤣
 
 ## Social links
-- Mastodon : [@MorganGeek@mamot.fr](https://mamot.fr/@MorganGeek) : alternative to Twitter/Facebook
 - [Shaarli](https://shaarli.zoemp.be) : resources, favorite bookmarks
-- [Last.fm](https://www.last.fm/fr/user/MorganGeek)
+- [Last.fm](https://www.last.fm/fr/user/SansGuidon)
