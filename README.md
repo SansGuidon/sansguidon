@@ -8,4 +8,4 @@
 
 ## Social links
 - [Shaarli](https://shaarli.zoemp.be) : resources, favorite bookmarks
-- [Last.fm](https://www.last.fm/fr/user/SansGuidon)
+- [ListenBrainz](https://listenbrainz.org/user/SansGuidon/)
