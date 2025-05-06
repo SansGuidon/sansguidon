@@ -5,6 +5,8 @@
 ## Links
 - [Bookmarks](https://gitea.zoemp.be/morgan/bookmarks) :bookmark: : where my favorite links stack up, now migrated to Gitea
 - [Blog](https://morgan.zoemp.be/) : where I write :brain: , when I write... Hopefully I should be more active in ~~2022~~ ~~2023~~ 2024 🤣
+- [/NOW](https://morgan.zoemp.be/now/) what about me now.
+- [Shares](https://shaarli.zoemp.be) links and comments I share, in French.
 
 ## Social links
 - [Shaarli](https://shaarli.zoemp.be) : resources, favorite bookmarks
